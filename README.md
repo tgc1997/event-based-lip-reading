@@ -28,7 +28,7 @@ conditions which are essential in real-world applications.
 ## Test
 You can test our provided pre-trained model by running
 ```python
-python main.py --gpus=0 --num_bins=1+4 --test=True --alpha=4 --beta=4 --weights=mstp
+python main.py --gpus=0 --num_bins=1+7 --test=True --alpha=4 --beta=7 --weights=mstp
 ```
 
 ## Training

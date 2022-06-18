@@ -13,7 +13,7 @@ since only brightness changes of the scene are recorded; 3)
 they are low-power and can work on challenging lighting
 conditions which are essential in real-world applications.
  This code is the Pytorch implementation of our work.
-![image](https://github.com/tgc1997/event-based-lip-reading/blob/master/misc/framework.jpg)
+![image](https://github.com/tgc1997/event-based-lip-reading/blob/main/misc/framework.jpg)
 
 
 ## Dependencies
